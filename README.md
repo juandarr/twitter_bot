@@ -21,4 +21,4 @@ That's it, enjoy!
 
 # License
 
-MIT 
+MIT , Juan Rios - 2020
